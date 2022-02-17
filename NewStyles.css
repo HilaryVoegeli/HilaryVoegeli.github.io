@@ -251,6 +251,9 @@ h5 {
 .carousel-inner {
   padding-left: 230px;
 }
+#description {
+  color: #55acee
+}
 
 #contact .overlay {
   background: steelblue;
